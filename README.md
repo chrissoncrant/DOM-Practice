@@ -1,2 +1,4 @@
 # DOM-Practice
-For practicing DOM javascript manipulation
+For practicing DOM javascript manipulation. 
+
+
