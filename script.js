@@ -81,7 +81,8 @@ for (let i = 0; i < btnClass.length; i++) {
 }
 
 nonDomBtn.addEventListener('click', function (e) {
-    console.log(e.target.style.backgroundColor = "blue");
+    e.target.style.backgroundColor = "blue"
+    e.target.style.color = "white";
 });
 
 notherNonDomBtn.addEventListener('click', () => {
